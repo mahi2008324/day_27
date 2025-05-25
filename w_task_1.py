@@ -1,0 +1,10 @@
+input=[1,2,3,4,5,["python","Djnago",2,3],"hello"]
+				#output="Django"
+				#output=D
+				#output=ell
+				#output=5
+print(input)
+print(input[5][1])
+print(input[5][1][0])
+print(input[6][1:4:])
+print(input[4])

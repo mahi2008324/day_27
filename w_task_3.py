@@ -1,0 +1,7 @@
+input=("Python","[1,2,3,4,5]",3,5)
+print(input)
+print(input[1][7])
+print(input[1][1])
+print(input[0][2:6:])
+print(input[1][0])
+print(input[1][10])
